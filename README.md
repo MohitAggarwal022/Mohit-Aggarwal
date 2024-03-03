@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Aggarwal</h1>
 <h3 align="center">Java Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Java and Angular Project**
+- 🔭 I’m working on **Java and Angular Project**
 
 - 🌱 I’m currently learning **DSA and React**
 
