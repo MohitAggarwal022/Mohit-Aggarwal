@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohit Aggarwal</h1>
 <h3 align="center">Java Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **React and Next Js**
+- 🔭 I’m currently working on **Java and Angular Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MohitAggarwal022](https://github.com/MohitAggarwal022)
+- 🌱 I’m currently learning **DSA and React**
+
+- 👨‍💻 All of my projects are available at [https://github.com/MohitAggarwal022/Mohit-Aggarwal](https://github.com/MohitAggarwal022/Mohit-Aggarwal)
 
 - 💬 Ask me about **Java and Angular**
 
