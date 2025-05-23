@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on **Java and Angular Project**
 
-- 🌱 I’m currently learning **DSA and React**
+- 🌱 I’m currently learning **DSA and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohitAggarwal022/Mohit-Aggarwal](https://github.com/MohitAggarwal022/Mohit-Aggarwal)
 
