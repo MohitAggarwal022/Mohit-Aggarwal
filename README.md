@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohit Aggarwal</h1>
 <h3 align="center">Java Full Stack Developer</h3>
 
-- 🔭 I’m working on **Java and Angular Project**
+- 🔭 I’m working on **Gen AI and Agents Projects**
 
-- 🌱 I’m currently learning **DSA and DevOps**
+- 🌱 I’m currently learning **DSA, System Design and Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohitAggarwal022/Mohit-Aggarwal](https://github.com/MohitAggarwal022/Mohit-Aggarwal)
 
-- 💬 Ask me about **Java and Angular**
+- 💬 Ask me about **Java, Angular, Gen AI, Agents, System Design**
 
 - 📫 How to reach me **aggarwalmohit405@gmail.com**
 
