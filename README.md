@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Gen AI, System Design**
 
-- 📫 How to reach me **mohitaggarwal10x@gmail.com**
+- 📫 How to reach me **aggarwalmohit405@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
